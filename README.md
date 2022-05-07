@@ -1,3 +1,3 @@
 # pc
-Purple Clicks
-https://thenpcfish.github.io
+Purple Clicks<br>
+https://thenpcfish.github.io/pc
